@@ -44,9 +44,14 @@
     "recurse",
     "recursive"
   ],
+  "main": "dist/index",
+  "files": [
+    "dest",
+    "lib"
+  ],
   "dependencies": {
     "camelcase": "^3.0.0",
-    "map-obj": "^2.0.0"
+    "map-obj": "git+https://github.com/zhongyw/map-obj.git"
   },
   "devDependencies": {
     "ava": "*",
