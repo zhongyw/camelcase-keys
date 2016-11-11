@@ -43,7 +43,7 @@
   ],
   "main": "dist/index",
   "files": [
-    "dest",
+    "dist",
     "lib"
   ],
   "dependencies": {
